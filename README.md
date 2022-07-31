@@ -1,4 +1,4 @@
-# gzmetrodoor
+# Vue3-example
 
 ## Project setup
 ```
